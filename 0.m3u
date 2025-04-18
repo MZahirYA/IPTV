@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinSportsNews" tvg-name="beIN Sports News" group-title="Sports",beIN Sports News
-https://www.youtube.com/live/umCCh6e7eXI
+#EXTINF:-1,beIN Sports News
+http://example.com/stream1.m3u8
+#EXTINF:-1,beIN Sports 1
+http://example.com/stream2.m3u8
+#EXTINF:-1,beIN Sports 2
+http://example.com/stream3.m3u8
