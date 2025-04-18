@@ -1,22 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_logo_2021.svg",BBC Sport (UK)
-https://stream.live.vc.bbcmedia.co.uk/bbc_one_hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_logo_2021.svg",BBC One Northern Ireland HD
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/NHK_logo.svg",NHK World (Japan)
-https://nhkworld.webcdn.stream.ne.jp/live_english/nhkworld_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_logo_2021.svg",BBC One Wales HD
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/ABC_logo.svg",ABC News (USA - occasional sports)
-https://abcnews.go.com/Live/stream/ABCNewsLive/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_logo_2021.svg",BBC Four HD
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Sports (Qatar - Free)
-https://stream.alkass.net/alkass1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_logo_2021.svg",BBC News Channel HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/RTS_1_Logo.svg",RTS 1 (Senegal - Free)
-https://cdn.rts.sn/live/rts1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/NHK_logo.svg",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TVRI_Logo_2022.svg",TVRI Sport (Indonesia)
 https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI1)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/France.tv_logo.svg",France TV Sport
-https://ftv-mrss.akamaized.net/live/stream_franceinfo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/RTS_1_Logo.svg",RTS 1 (Senegal)
+https://cdn.rts.sn/live/rts1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 French
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass One HD
+https://stream.alkass.net/alkass1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Two HD
+https://stream.alkass.net/alkass2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Three HD
+https://stream.alkass.net/alkass3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Four HD
+https://stream.alkass.net/alkass4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Five HD
+https://stream.alkass.net/alkass5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Six HD
+https://stream.alkass.net/alkass6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Seven HD
+https://stream.alkass.net/alkass7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Eight HD
+https://stream.alkass.net/alkass8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Red_Bull_TV_logo.svg",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
