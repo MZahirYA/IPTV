@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_logo_2021.svg",BBC Sport (UK)
+https://stream.live.vc.bbcmedia.co.uk/bbc_one_hd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/NHK_logo.svg",NHK World (Japan)
+https://nhkworld.webcdn.stream.ne.jp/live_english/nhkworld_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/ABC_logo.svg",ABC News (USA - occasional sports)
+https://abcnews.go.com/Live/stream/ABCNewsLive/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Alkass_Sports_Logo.svg",Alkass Sports (Qatar - Free)
+https://stream.alkass.net/alkass1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/RTS_1_Logo.svg",RTS 1 (Senegal - Free)
+https://cdn.rts.sn/live/rts1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TVRI_Logo_2022.svg",TVRI Sport (Indonesia)
+https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI1)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/France.tv_logo.svg",France TV Sport
+https://ftv-mrss.akamaized.net/live/stream_franceinfo.m3u8
