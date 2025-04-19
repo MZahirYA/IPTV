@@ -11,3 +11,15 @@ https://dd.alkoora.live/albaplayer/ad-sport-3/
 http://example.com/stream2.m3u8
 #EXTINF:-1,BeIN Sports 6
 http://example.com/stream3.m3u8
+#EXTINF:-1,BeIN Sports 1
+https://dd.alkoora.live/albaplayer/ad-sport-3/
+#EXTINF:-1,BeIN Sports 2
+http://example.com/stream2.m3u8
+#EXTINF:-1,BeIN Sports 3
+http://example.com/stream3.m3u8
+#EXTINF:-1,BeIN Sports 4
+https://dd.alkoora.live/albaplayer/ad-sport-3/
+#EXTINF:-1,BeIN Sports 5
+http://example.com/stream2.m3u8
+#EXTINF:-1,BeIN Sports 6
+http://example.com/stream3.m3u8
