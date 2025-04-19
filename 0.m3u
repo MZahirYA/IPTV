@@ -1,1 +1,7 @@
-https://dd.alkoora.live/albaplayer/ad-sport-3/
+#EXTM3U
+#EXTINF:-1,قناة الجزيرة
+https://dd.alkoora.live/albaplayer/ad-sport-3/?serv=2
+#EXTINF:-1,قناة العربية
+http://example.com/stream2.m3u8
+#EXTINF:-1,قناة BBC
+http://example.com/stream3.m3u8
