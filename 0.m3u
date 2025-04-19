@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,BeIN Sports 6 
-https://dd.alkoora.live/albaplayer/ad-sport-3/?serv=2
-#EXTINF:-1,قناة العربية
+https://dd.alkoora.live/albaplayer/ad-sport-3/
+#EXTINF:-1,BeIN Sports 1
 http://example.com/stream2.m3u8
-#EXTINF:-1,قناة BBC
+#EXTINF:-1,BeIN Sports 2
 http://example.com/stream3.m3u8
